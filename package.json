@@ -1,0 +1,13 @@
+{
+  "name": "web-view",
+  "version": "1.0.0",
+  "description": "A sample web view for development",
+  "main": "app.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
